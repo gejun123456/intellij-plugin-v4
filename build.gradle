@@ -28,7 +28,7 @@ intellij {
 //    IC-2016.1  IC-14.1.4 IC-2016.3  IU-2016.1  IC-2017.3  IC-2017.2  IU-2017.3
 //    IC-2016.1  IC-14.1.4 IC-2016.3  IU-2016.1  IU-2018.1  IU-2016.3  IU-2017.3
 //    IU-LATEST-EAP-SNAPSHOT
-    version 'IU-2018.1' //IntelliJ IDEA dependency
+    version 'IC-2016.1' //IntelliJ IDEA dependency
 //    plugins 'coverage' //Bundled plugin dependencies
     pluginName 'ANTLR v4 grammar plugin'
     updateSinceUntilBuild false
